@@ -1,7 +1,7 @@
 # Neil Aldrin A. Azarcon
 **3rd Year - BS Computer Science Student | Ateneo de Naga University**
 
-Developer focused on full-stack web applications, native mobile platforms, and game development. Experienced in implementing secure authentication, real-time data synchronization, and technical quality assurance.
+Developer focused on full-stack web applications, cybersecurity, and game development.
 
 ---
 
@@ -25,7 +25,7 @@ Developer focused on full-stack web applications, native mobile platforms, and g
 * **Highlights:** Featured multi-era gameplay mechanics and dynamic NPC behavior.
 * **Recognition:** Awarded **"Best Storyline"** at the 2025 Software Festival for complex narrative integration.
 
-#### **[Strydr]**
+#### **Strydr**
 *A management platform for sports events designed for high-volume participant tracking.*
 * **Features:** Handles real-time result tracking and participant registration.
 * **Architecture:** Developed as a cross-platform solution (Website and Mobile App).
