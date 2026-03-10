@@ -13,7 +13,7 @@ Developer focused on full-stack web applications, cybersecurity, and game develo
 
 ---
 
-### 🚀 Core Projects
+### 🚀 Projects
 
 #### **[TrekPoint](https://youtu.be/biysbABlJFg)**
 *Developed a native mobile platform connecting hikers and event organizers to resolve market fragmentation.*
@@ -23,7 +23,6 @@ Developer focused on full-stack web applications, cybersecurity, and game develo
 #### **[Time Dining](https://youtu.be/Xbg2qDWYou0)**
 *A 2.5D time-travel restaurant management game built in **Godot**.*
 * **Highlights:** Featured multi-era gameplay mechanics and dynamic NPC behavior.
-* **Recognition:** Awarded **"Best Storyline"** at the 2025 Software Festival for complex narrative integration.
 
 #### **Strydr**
 *A management platform for sports events designed for high-volume participant tracking.*
@@ -43,21 +42,6 @@ MongoDB database integration
 User Authentication
 Spotify Integration
 
-Technologies Used:
-MongoDB
-Express.js
-React.js
-Node.js
-Mongoose
-JSON Web Tokens
-React Router DOM
-React Quill
-bcrypt
-cookie-parser
-dotenv
-cors
-multer
-
 ---
 
 ### 🎓 Education
@@ -68,4 +52,4 @@ multer
 
 ### 📫 Contact & Interests
 * **Email:** naeouaeoun@gmail.com
-* **Interests:** Cybersecurity, Game Development, Road Cycling, and Music Theory.
+* **Interests:** Cybersecurity, Game Development, Cycling, and Guitar.
