@@ -5,11 +5,9 @@ Developer focused on full-stack web applications, cybersecurity, and game develo
 
 ---
 
-### 🛠️ Technical Skills
-
-* **Languages:** C++, Java, C#, GDScript, HTML, JavaScript, CSS
-* **Software Development & Tools:** VS Code, Git/GitHub, Godot Engine, Unity
-* **Full-Stack & Mobile:** MERN Stack (MongoDB, Express, React, Node.js), React Native, Firebase, Supabase
+### 🎓 Education
+* **BS Computer Science** | Ateneo de Naga University (2023 – Present)
+* **General Academic Strand** | Ateneo de Naga University Senior High School (2021 – 2023)
 
 ---
 
@@ -21,35 +19,30 @@ Developer focused on full-stack web applications, cybersecurity, and game develo
 * **Key Features:** Secure booking, real-time GPS tracking, and identity verification.
 
 #### **[Time Dining](https://youtu.be/Xbg2qDWYou0)**
-*A 2.5D time-travel restaurant management game built in **Godot**.*
-* **Highlights:** Featured multi-era gameplay mechanics and dynamic NPC behavior.
+*A mobile platform designed to connect hikers and event organizers. It simplifies the process of booking, managing, and participating in hiking trips by providing a centralized, reliable hub.*
 
 #### **Strydr**
-*A management platform for sports events designed for high-volume participant tracking.*
-* **Features:** Handles real-time result tracking and participant registration.
-* **Architecture:** Developed as a cross-platform solution (Website and Mobile App).
+*A management platform for sports events designed to handle participant registration and real-time result tracking currently focused on school/city-wide events.*
 
 #### **[Dota 2 Blog Site](https://blogsite-final.onrender.com/)**
-*Full-stack MERN application demonstrating complete CRUD lifecycle and secure session management.*
-
-This web application is a blog platform that allows users to create, read, update, and delete blog posts. It features user authentication, and a text editor.
-
-Create, edit, and delete blog posts
-text editor using React Quill
-frontend built with React
-Backend API with Node.js and Express
-MongoDB database integration
-User Authentication
-Spotify Integration
+*A simple full-stack blog platform built with the MERN stack. Features include secure JWT-based authentication, text editing with React Quill, and real-time data fetching from a MongoDB database. This project demonstrates a complete CRUD lifecycle, secure image handling, and third-party Spotify integration.*
 
 ---
 
-### 🎓 Education
-* **BS Computer Science** | Ateneo de Naga University (2023 – Present)
-* **General Academic Strand** | Ateneo de Naga University Senior High School (2021 – 2023)
+### 🛠️ Technical Skills
+
+* **Languages:** C++, Java, C#, GDScript, HTML, JavaScript, CSS
+* **Web Development** React.js, React Native, Node.js, Express, MongoDB, JWT Authentication, React Quill, Firebase, Supabase
+* **Game Development** Godot, Unity
+* **Tools & Platforms:** VS Code, Github, Vercel, Render, Jira
+* **AI & Productivity** Github Copilot, NotebookLM, Gemini
 
 ---
 
-### 📫 Contact & Interests
+### 📫 Contact Information
 * **Email:** naeouaeoun@gmail.com
-* **Interests:** Cybersecurity, Game Development, Cycling, and Guitar.
+* **Phone:** 09936136985
+* **Location:** Naga City, Camarines Sur, Philippines
+* **Facebook:** [facebook.com/naeouil](facebook.com/naeouil/)
+* **LinkedIn:** [linkedin.com/in/neil-aldrin-azarcon-0080c38](linkedin.com/in/neil-aldrin-azarcon-0080c38/)
+* **GitHub:** [github.com/naeoun](github.com/naeoun/)
